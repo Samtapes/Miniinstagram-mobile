@@ -1,3 +1,3 @@
 # Miniinstagram-mobile
 
-This an project for learn React Native
+This in an project for learn React Native
